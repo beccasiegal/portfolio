@@ -50,3 +50,6 @@ h3{
 section:nth-child(even) {
   background-color: lightgrey;
 }
+picture{
+  max-width: 800px;
+}
